@@ -1,0 +1,22 @@
+{
+  "name": "challenge-litebox",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "dev": "tsc -w & nodemon --inspect=9008 --delay 5 ./dist/index.js",
+    "start": "tsc & node ./dist/index.js",
+    "build": "tsc"
+  },
+  "private": true,
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^13.5.0",
+    "nodemon": "^2.0.2",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}

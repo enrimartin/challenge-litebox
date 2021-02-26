@@ -1,0 +1,85 @@
+[
+  {
+    "active_since_date": 1539723645778,
+    "deviceLimit": "22",
+    "email": "an@ana.com",
+    "manualLimit": 1,
+    "password": "$2a$10$FZDk7w.2Nw1jZ6sOTJkKL.8uVGpxVL9bpUPhNEd96.mA/Lwbt2J2C",
+    "status": 1,
+    "statusSubscription": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiYW5AYW5hLmNvbSIsInBhc3N3b3JkIjoiJDJhJDEwJEZaRGs3dy4yTncxalo2c09USmtLTC44dVZHcHhWTDlicFVQaE5FZDk2Lm1BL0x3YnQySjJDIiwic3RhdHVzIjoxLCJzdGF0dXNTdWJzY3JpcHRpb24iOjAsImFjdGl2ZV9zaW5jZV9kYXRlIjoxNTM5NzIzNjQ1Nzc4fSwiaWF0IjoxNTM5NzIzNjQ1LCJleHAiOjE1NDIzMTU2NDV9.U6Lym3lY75-yxwV3SwMR0jOwOBNFp0arn6VJAoeGTyI"
+  },
+  {
+    "active_since_date": 1539972093852,
+    "deviceLimit": "15",
+    "email": "g.faraone@hotmail.com",
+    "manualLimit": 1,
+    "password": "$2a$10$iKCsXckALXtfP54PlfthcObNsmjd5gwFVnQily9dxIoTeDlXSxVXW",
+    "passwordToken": "rfLtD2wc4TMhKuAD",
+    "status": 1,
+    "statusSubscription": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiZy5mYXJhb25lQGhvdG1haWwuY29tIiwicGFzc3dvcmQiOiIkMmEkMTAkZGxwUGJmbU9LR1d3RHBpNXhOUWdYTzl4NUNXR21ELjVPNTY4UXVNN0dmeEpPUDg0OTJBeW0iLCJzdGF0dXMiOjEsInN0YXR1c1N1YnNjcmlwdGlvbiI6MCwiYWN0aXZlX3NpbmNlX2RhdGUiOjE1Mzk5NzIwOTM4NTJ9LCJpYXQiOjE1Mzk5NzIwOTMsImV4cCI6MTU0MjU2NDA5M30.dtuAJMIBZ9m3TWZKORs65BqOASI8OV8bl3hcAs0MDZI"
+  },
+  {
+    "active_since_date": 1540233152087,
+    "email": "m@m.com",
+    "password": "$2a$10$dlpPbfmOKGWwDpi5xNQgXOueGwzHiXL9XwgeCAQVrB/Q.UQlSvmD6",
+    "status": 1,
+    "statusSubscription": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoibUBtLmNvbSIsInBhc3N3b3JkIjoiJDJhJDEwJGRscFBiZm1PS0dXd0RwaTV4TlFnWE91ZUd3ekhpWEw5WHdnZUNBUVZyQi9RLlVRbFN2bUQ2Iiwic3RhdHVzIjoxLCJzdGF0dXNTdWJzY3JpcHRpb24iOjAsImFjdGl2ZV9zaW5jZV9kYXRlIjoxNTQwMjMzMTUyMDg3fSwiaWF0IjoxNTQwMjMzMTUyLCJleHAiOjE1NDI4MjUxNTJ9.VhDb6pA-hkIQsrygDKWGedLdSDXpJ1vtwFrFTiEa1_Q"
+  },
+  {
+    "active_since_date": 1540314656750,
+    "email": "ana@apaumba.com",
+    "password": "$2a$10$GHSLvdylKohKZZr9HJBRXO4cw7mU9nbWZUtIHpu1p11NWgQ/Hpdha",
+    "status": 1,
+    "statusSubscription": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiYW5hQGFwYXVtYmEuY29tIiwicGFzc3dvcmQiOiIkMmEkMTAkR0hTTHZkeWxLb2hLWlpyOUhKQlJYTzRjdzdtVTluYldaVXRJSHB1MXAxMU5XZ1EvSHBkaGEiLCJzdGF0dXMiOjEsInN0YXR1c1N1YnNjcmlwdGlvbiI6MCwiYWN0aXZlX3NpbmNlX2RhdGUiOjE1NDAzMTQ2NTY3NTB9LCJpYXQiOjE1NDAzMTQ2NTYsImV4cCI6MTU0MjkwNjY1Nn0.onBZ4s5QMXJerxexQzOybIbAOO7vm2eTYcOr1zFA-sQ"
+  },
+  {
+    "active_since_date": 1540394498961,
+    "email": "mama@mama.com",
+    "password": "$2a$10$jnzJlRc05eyJXNlwKVPgsulD3RzzECKhB9Na9oPHtwqSt8EBIT1DG",
+    "status": 1,
+    "statusSubscription": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoibWFtYUBtYW1hLmNvbSIsInBhc3N3b3JkIjoiJDJhJDEwJGpuekpsUmMwNWV5SlhObHdLVlBnc3VsRDNSenpFQ0toQjlOYTlvUEh0d3FTdDhFQklUMURHIiwic3RhdHVzIjoxLCJzdGF0dXNTdWJzY3JpcHRpb24iOjAsImFjdGl2ZV9zaW5jZV9kYXRlIjoxNTQwMzk0NDk4OTYxfSwiaWF0IjoxNTQwMzk0NDk4LCJleHAiOjE1NDI5ODY0OTh9.NvDAzA9lOoKfESGXoThaX4rHSLYOdmMcXvvlC_SA71k"
+  },
+  {
+    "active_since_date": 1540394553680,
+    "email": "b@b.com",
+    "password": "$2a$10$jnzJlRc05eyJXNlwKVPgsu1UE04kECrH.azmRNvwglgrsPkVbGvJu",
+    "status": 1,
+    "statusSubscription": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiYkBiLmNvbSIsInBhc3N3b3JkIjoiJDJhJDEwJGpuekpsUmMwNWV5SlhObHdLVlBnc3UxVUUwNGtFQ3JILmF6bVJOdndnbGdyc1BrVmJHdkp1Iiwic3RhdHVzIjoxLCJzdGF0dXNTdWJzY3JpcHRpb24iOjAsImFjdGl2ZV9zaW5jZV9kYXRlIjoxNTQwMzk0NTUzNjgwfSwiaWF0IjoxNTQwMzk0NTUzLCJleHAiOjE1NDI5ODY1NTN9.zBMNDJXhNa1iFvoJdcw41oAdigc5GjTSS5kDlsSkVSs"
+  },
+  {
+    "active_since_date": 1540395703860,
+    "email": "l@l.com",
+    "password": "$2a$10$qA3sw4Cv02gIKlS/OhgrbekGCURlXsOeCH6IS8k2/2Nm/qBcQB90y",
+    "status": 1,
+    "statusSubscription": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoibEBsLmNvbSIsInBhc3N3b3JkIjoiJDJhJDEwJGpuekpsUmMwNWV5SlhObHdLVlBnc3UxVUUwNGtFQ3JILmF6bVJOdndnbGdyc1BrVmJHdkp1Iiwic3RhdHVzIjoxLCJzdGF0dXNTdWJzY3JpcHRpb24iOjAsImFjdGl2ZV9zaW5jZV9kYXRlIjoxNTQwMzk1NzAzODYwfSwiaWF0IjoxNTQwMzk1NzAzLCJleHAiOjE1NDI5ODc3MDN9.PoCjUmHQHRjx8NoiYiMHEoqBuyDzn7uhRXQlsaivtB0"
+  },
+  {
+    "active_since_date": 1543343172431,
+    "email": "mamama@mamama.com",
+    "graceInterval": 0,
+    "gracePeriod": 0,
+    "password": "$2a$10$w/N4g93EQZLSSPAXGu5F1.YBiRHlJONzWLX9rmP3PSJaRMt.4MOY2",
+    "status": 1,
+    "statusSubscription": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoibWFtYW1hQG1hbWFtYS5jb20iLCJwYXNzd29yZCI6IiQyYSQxMCR3L040ZzkzRVFaTFNTUEFYR3U1RjEuWUJpUkhsSk9OeldMWDlybVAzUFNKYVJNdC40TU9ZMiIsInN0YXR1cyI6MSwic3RhdHVzU3Vic2NyaXB0aW9uIjowLCJncmFjZVBlcmlvZCI6MCwiZ3JhY2VJbnRlcnZhbCI6MCwiYWN0aXZlX3NpbmNlX2RhdGUiOjE1NDMzNDMxNzI0MzF9LCJpYXQiOjE1NDMzNDMxNzIsImV4cCI6MTU0NTkzNTE3Mn0.MMQLeQi5UTBEPnj0NRKRN1apsOme3BQHTj3BU2VMKBI"
+  },
+  {
+    "active_since_date": 1543345995899,
+    "deviceLimit": 20,
+    "devices": "[{\"id\":\"5404d643b8c64e214c0c906ac51f5a92\",\"model\":\"Serena---samsung SM-N9600\"}]",
+    "email": "anabellaorcola@gmail.com",
+    "graceInterval": 0,
+    "gracePeriod": 0,
+    "password": "$2a$10$Ad1Qp/Qo/GoKOLKKrCUFp./rJyTy9l5.DoUfaOPAkvyRljAyqDOei",
+    "status": 1,
+    "statusSubscription": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiYW5hYmVsbGFvcmNvbGFAZ21haWwuY29tIn0sImlhdCI6MTU3MDk4NDM4OCwiZXhwIjoxNTczNTc2Mzg4fQ.2JjeHu5V1e8q-ZZDw-6JyrkcU3K3IBEbtDWnoua-dbQ"
+  }
+]
